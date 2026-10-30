@@ -1,3 +1,4 @@
 # Joguinhos Diversos
-Jogos simples de 1 arquivo para brincar no terminal. Inclui arquivos antigos ou refeitos.  
+Jogos pequenos para brincar no terminal. Inclui projetos antigos.  
 Use awsd para se mover quando necessário.  
+Atenção: os programas não tem suporte para windows.  
